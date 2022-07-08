@@ -1,2 +1,3 @@
 # Shopping-Cart-CLI
-All My Python Projects
+Simple Python Program
+
